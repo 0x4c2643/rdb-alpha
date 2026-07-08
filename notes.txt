@@ -1,0 +1,3 @@
+# some comands that were useful for this project:
+
+pg_dump --clean --create --inserts --username=freecodecamp students > students.sql
