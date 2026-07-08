@@ -424,3 +424,4 @@ __vsc_prompt_cmd_original
 nano insert_data.sh
 __vsc_prompt_cmd_original
 ./insert_data.sh
+cp students.csv students_test.csv
