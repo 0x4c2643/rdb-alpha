@@ -264,3 +264,5 @@ chmod +x insert_data.sh
 git innit
 git init
 nano insert_data.sh
+__vsc_prompt_cmd_original
+./insert_data.sh
