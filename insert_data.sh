@@ -53,6 +53,7 @@ then
 	if [[ -z $MAJOR_ID ]] 
 	then
 	# set to null
+	MAJOR_ID="null"
 	fi
 	# insert student
 
